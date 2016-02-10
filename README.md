@@ -2,9 +2,6 @@
 #### _A collection of custom python modules_
 
 ---
----
----
----
 
 ## Module: status
 ###### Purpose: Clearly defines the beginning and end of functions or scripts run in the terminal or command prompt.
@@ -24,8 +21,7 @@
      
     ------------------- END ------------------
 
----
----
+
 
 ## Module: timer
 ###### Purpose: To time function or script execution
@@ -42,8 +38,7 @@
      
     --------- Time: 0.86s ---------
 
----
----
 
-### License
+
+## License
 MIT
