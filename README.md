@@ -9,7 +9,7 @@
 ## Module: status
 ###### Purpose: Clearly defines the beginning and end of functions or scripts run in the terminal or command prompt.
 ###### Tested on: Windows and Mac OS X running Python 3.5.1
-###### Modules needed: termcolor, colorama
+###### Modules used: termcolor, colorama
 
 #### Usage:
     import status
@@ -30,7 +30,6 @@
 ## Module: timer
 ###### Purpose: To time function or script execution
 ###### Tested on: Windows and Mac OS X running Python 3.5.1
-###### Modules needed: -
 
 #### Usage:
     import timer
